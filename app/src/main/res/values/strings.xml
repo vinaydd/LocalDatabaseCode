@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocalDatabaseCode</string>
+    <string name="ok">OK</string>
+    <string name="internetnotavaliable">No Internet Available</string>
+    <string name="no_net">There is no internet connection available, please try again.</string>
+
+</resources>
